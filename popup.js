@@ -1,4 +1,4 @@
-let changeColor = document.getElementById('changeColor');
+let showQmoriz = document.getElementById('show-qmoriz');
 
   chrome.storage.sync.get('color', function(data) {
     changeColor.style.backgroundColor = data.color;
