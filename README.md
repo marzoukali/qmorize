@@ -1,4 +1,4 @@
 # Qmorize
-Memorize words and learn languages more smarter and faster!
+Memorize words and learn languages smarter and faster!
 
-Google Chrome Extension that allow users easily save difficult words and sentences while reading topics on web.
+Google Chrome Extension that allows users to easily memorize a difficult words and phrases while reading browsing the web.
